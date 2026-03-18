@@ -1,5 +1,7 @@
 # UR7e ROS2 Keyboard Controller
-
+<p align="center">
+  <img src="docs/image.jpg" width="600"/>
+</p>
 A minimal, reliable keyboard-based teleoperation system for controlling a **Universal Robots UR7e** using **ROS2 (Humble)** on a **Jetson Orin Nano**.
 
 This project provides a low-latency, action-based control interface for jogging individual robot joints safely and interactively.
