@@ -1,0 +1,27 @@
+[1.859s] Invoking command in '/home/jetson/ur_ws/src/ur_dev_bringup': PYTHONPATH=/home/jetson/ur_ws/build/ur_dev_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jetson/ur_ws/install/ur_dev_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ur_dev_bringup build --build-base /home/jetson/ur_ws/build/ur_dev_bringup/build install --record /home/jetson/ur_ws/build/ur_dev_bringup/install.log --single-version-externally-managed install_data
+[2.321s] running egg_info
+[2.322s] writing ../../build/ur_dev_bringup/ur_dev_bringup.egg-info/PKG-INFO
+[2.324s] writing dependency_links to ../../build/ur_dev_bringup/ur_dev_bringup.egg-info/dependency_links.txt
+[2.324s] writing entry points to ../../build/ur_dev_bringup/ur_dev_bringup.egg-info/entry_points.txt
+[2.324s] writing requirements to ../../build/ur_dev_bringup/ur_dev_bringup.egg-info/requires.txt
+[2.325s] writing top-level names to ../../build/ur_dev_bringup/ur_dev_bringup.egg-info/top_level.txt
+[2.328s] reading manifest file '../../build/ur_dev_bringup/ur_dev_bringup.egg-info/SOURCES.txt'
+[2.330s] writing manifest file '../../build/ur_dev_bringup/ur_dev_bringup.egg-info/SOURCES.txt'
+[2.331s] running build
+[2.332s] running build_py
+[2.332s] copying ur_dev_bringup/keyboard_teleop.py -> /home/jetson/ur_ws/build/ur_dev_bringup/build/lib/ur_dev_bringup
+[2.332s] running install
+[2.333s] running install_lib
+[2.334s] copying /home/jetson/ur_ws/build/ur_dev_bringup/build/lib/ur_dev_bringup/keyboard_teleop.py -> /home/jetson/ur_ws/install/ur_dev_bringup/lib/python3.10/site-packages/ur_dev_bringup
+[2.335s] byte-compiling /home/jetson/ur_ws/install/ur_dev_bringup/lib/python3.10/site-packages/ur_dev_bringup/keyboard_teleop.py to keyboard_teleop.cpython-310.pyc
+[2.338s] running install_data
+[2.339s] running install_egg_info
+[2.344s] removing '/home/jetson/ur_ws/install/ur_dev_bringup/lib/python3.10/site-packages/ur_dev_bringup-0.0.1-py3.10.egg-info' (and everything under it)
+[2.344s] Copying ../../build/ur_dev_bringup/ur_dev_bringup.egg-info to /home/jetson/ur_ws/install/ur_dev_bringup/lib/python3.10/site-packages/ur_dev_bringup-0.0.1-py3.10.egg-info
+[2.347s] running install_scripts
+[2.385s] Installing camera_view_node script to /home/jetson/ur_ws/install/ur_dev_bringup/lib/ur_dev_bringup
+[2.386s] Installing keyboard_teleop script to /home/jetson/ur_ws/install/ur_dev_bringup/lib/ur_dev_bringup
+[2.386s] Installing robot_state_node script to /home/jetson/ur_ws/install/ur_dev_bringup/lib/ur_dev_bringup
+[2.386s] Installing twist_teleop_node script to /home/jetson/ur_ws/install/ur_dev_bringup/lib/ur_dev_bringup
+[2.386s] writing list of installed files to '/home/jetson/ur_ws/build/ur_dev_bringup/install.log'
+[2.454s] Invoked command in '/home/jetson/ur_ws/src/ur_dev_bringup' returned '0': PYTHONPATH=/home/jetson/ur_ws/build/ur_dev_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jetson/ur_ws/install/ur_dev_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ur_dev_bringup build --build-base /home/jetson/ur_ws/build/ur_dev_bringup/build install --record /home/jetson/ur_ws/build/ur_dev_bringup/install.log --single-version-externally-managed install_data
